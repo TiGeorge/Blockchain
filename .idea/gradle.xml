@@ -12,9 +12,16 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
             <option value="$PROJECT_DIR$/Problems/Basic calculator" />
+            <option value="$PROJECT_DIR$/Problems/Count elements of an array in another one" />
             <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/Problems/Does the array contain the element" />
+            <option value="$PROJECT_DIR$/Problems/Find a fixed point in an array" />
+            <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
             <option value="$PROJECT_DIR$/Problems/N-th power" />
             <option value="$PROJECT_DIR$/Problems/Number of decompositions" />
+            <option value="$PROJECT_DIR$/Problems/Search in a descending ordered array" />
+            <option value="$PROJECT_DIR$/Problems/Search indexes of values in another array" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
             <option value="$PROJECT_DIR$/Problems/The index of an argument" />
             <option value="$PROJECT_DIR$/util" />
           </set>
