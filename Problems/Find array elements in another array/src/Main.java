@@ -19,7 +19,7 @@ class Main {
 
                 if (value == a[mid]) {
                     search = mid;
-                    break;// the element is found, return its index
+                    break;
                 } else if (value < a[mid]) {
                     right = mid - 1; // go to the left subarray
                 } else {
