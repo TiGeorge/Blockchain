@@ -62,3 +62,9 @@ content:
 - Users and WebSites
 - IntBinaryOperation
 - Shape hierarchy
+- String to double conversion
+- Catching some exceptions
+- Converting and multiplying
+- Motor static factory
+- Clock factory
+- Static factory methods for Time

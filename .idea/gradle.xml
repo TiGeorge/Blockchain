@@ -19,7 +19,10 @@
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Basic calculator" />
             <option value="$PROJECT_DIR$/Problems/Boxes are not just objects!" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Clock factory" />
             <option value="$PROJECT_DIR$/Problems/Convert to byte array" />
+            <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/Count comparisons" />
             <option value="$PROJECT_DIR$/Problems/Count elements of an array in another one" />
             <option value="$PROJECT_DIR$/Problems/Count the number of merge operations" />
@@ -35,6 +38,7 @@
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
             <option value="$PROJECT_DIR$/Problems/Max-min sorting" />
             <option value="$PROJECT_DIR$/Problems/Merge all sequences" />
+            <option value="$PROJECT_DIR$/Problems/Motor static factory" />
             <option value="$PROJECT_DIR$/Problems/Move the pivot" />
             <option value="$PROJECT_DIR$/Problems/N-th power" />
             <option value="$PROJECT_DIR$/Problems/Not only non-negative numbers" />
@@ -52,6 +56,8 @@
             <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Sorting characters" />
+            <option value="$PROJECT_DIR$/Problems/Static factory methods for Time" />
+            <option value="$PROJECT_DIR$/Problems/String to double conversion" />
             <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Problems/Test learners" />
             <option value="$PROJECT_DIR$/Problems/The first and the last day of a month" />
