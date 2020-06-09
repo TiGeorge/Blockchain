@@ -82,3 +82,12 @@ content:
 - Count words
 - Serializable user
 - The Range class
+- An anonymous class with a single method
+- String reverser
+- Iterations
+- Getting current thread info
+- Message notifier as a thread
+- Starting runnables
+- String processor
+- VeganPizza
+- Ordering the execution of threads

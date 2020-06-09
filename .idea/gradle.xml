@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/Problems/Add days and subtract hours" />
             <option value="$PROJECT_DIR$/Problems/Adding N minutes" />
             <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
+            <option value="$PROJECT_DIR$/Problems/An anonymous class with a single method" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Basic calculator" />
             <option value="$PROJECT_DIR$/Problems/Boxes are not just objects!" />
@@ -38,18 +39,22 @@
             <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
             <option value="$PROJECT_DIR$/Problems/Find the max in an array" />
             <option value="$PROJECT_DIR$/Problems/Geek Builder" />
+            <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
             <option value="$PROJECT_DIR$/Problems/Getting information on a day" />
             <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Problems/Iterations" />
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
             <option value="$PROJECT_DIR$/Problems/Laptop factory" />
             <option value="$PROJECT_DIR$/Problems/Laptop store" />
             <option value="$PROJECT_DIR$/Problems/Max-min sorting" />
             <option value="$PROJECT_DIR$/Problems/Merge all sequences" />
+            <option value="$PROJECT_DIR$/Problems/Message notifier as a thread" />
             <option value="$PROJECT_DIR$/Problems/Motor static factory" />
             <option value="$PROJECT_DIR$/Problems/Move the pivot" />
             <option value="$PROJECT_DIR$/Problems/N-th power" />
             <option value="$PROJECT_DIR$/Problems/Not only non-negative numbers" />
             <option value="$PROJECT_DIR$/Problems/Number of decompositions" />
+            <option value="$PROJECT_DIR$/Problems/Ordering the execution of threads" />
             <option value="$PROJECT_DIR$/Problems/Phone Book" />
             <option value="$PROJECT_DIR$/Problems/Phone factory" />
             <option value="$PROJECT_DIR$/Problems/Print comparisons" />
@@ -67,7 +72,10 @@
             <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Sorting characters" />
+            <option value="$PROJECT_DIR$/Problems/Starting runnables" />
             <option value="$PROJECT_DIR$/Problems/Static factory methods for Time" />
+            <option value="$PROJECT_DIR$/Problems/String processor" />
+            <option value="$PROJECT_DIR$/Problems/String reverser" />
             <option value="$PROJECT_DIR$/Problems/String to double conversion" />
             <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Problems/Template Method" />
@@ -82,6 +90,7 @@
             <option value="$PROJECT_DIR$/Problems/The number of operations" />
             <option value="$PROJECT_DIR$/Problems/The percentage of G and C characters" />
             <option value="$PROJECT_DIR$/Problems/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Problems/VeganPizza" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

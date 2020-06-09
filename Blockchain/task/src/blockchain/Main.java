@@ -3,18 +3,25 @@ package blockchain;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
 
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter how many zeros the hash must starts with: ");
+        int n = scanner.nextInt();
+
+
         Blockchain blockchain = new Blockchain();
 
         for (int i = 0; i < 5; i++) {
-            blockchain.addBlock();
+            blockchain.addBlock(n);
         }
 
         for (Blockchain.Block block : blockchain.getBlocks()) {
             System.out.println(block);
+            System.out.println();
         }
     }
 }
@@ -33,9 +40,9 @@ class Blockchain {
         blocks = new ArrayList<>();
     }
 
-    public void addBlock() {
+    public void addBlock(int zerosAmount) {
 
-        Block block = new Block(++currentId, getHashOfLast());
+        Block block = new Block(++currentId, getHashOfLast(), zerosAmount);
         lastBlock = block;
         blocks.add(block);
     }
@@ -50,7 +57,7 @@ class Blockchain {
 
     public boolean validate() {
 
-        if (blocks.size()<=1) {
+        if (blocks.size() <= 1) {
             return true;
         }
 
@@ -68,22 +75,32 @@ class Blockchain {
         private long timeStamp = new Date().getTime();
         private String hashOfPrevious;
         private String hash;
+        private int magicNumber;
+        private int generatingTime;
 
-        public Block(int id, String hashOfPrevious) {
+        public Block(int id, String hashOfPrevious, int zerosAmount) {
             this.id = id;
             this.hashOfPrevious = hashOfPrevious;
-            hash = StringUtil.applySha256("" + id + timeStamp + hashOfPrevious);
+            String prefix = "0".repeat(zerosAmount);
+            do {
+                magicNumber = (int) (Math.random() * Integer.MAX_VALUE);
+                hash = StringUtil.applySha256("" + id + timeStamp + hashOfPrevious + magicNumber);
+
+            } while (!hash.startsWith(prefix));
+            generatingTime = (int) (new Date().getTime() - timeStamp) / 1000;
         }
 
         @Override
         public String toString() {
             return "Block:\n" +
                     "Id: " + id + "\n" +
-                    "Timestamp: " + timeStamp +"\n" +
-                    "Hash of the previous block:\n"
-                    + hashOfPrevious + "\n" +
-                    "Hash of the block:\n"
-                    + hash + "\n";
+                    "Timestamp: " + timeStamp + "\n" +
+                    "Magic number: " + magicNumber + "\n" +
+                    "Hash of the previous block:\n" +
+                    hashOfPrevious + "\n" +
+                    "Hash of the block:\n" +
+                    hash + "\n" +
+                    "Block was generating for " + generatingTime + " seconds";
         }
     }
 
