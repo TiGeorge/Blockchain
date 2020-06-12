@@ -1,0 +1,26 @@
+@startuml
+Invoker <|-- Client
+Receiver <|-- Client
+Command1 <|-- Client
+Command <|-- Command1
+Command *-- Invoker
+
+interface Command{
+    +execute()
+}
+
+class Invoker{
+    -command
+    +setCommand(command)
+    +executeCommand()
+}
+
+class Command1 {
+    -receiver
+    -params
+    +Command1(receiver, params)
+    +execute()
+}
+
+
+@enduml
