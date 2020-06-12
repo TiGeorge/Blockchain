@@ -18,8 +18,12 @@
             <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
             <option value="$PROJECT_DIR$/Problems/An anonymous class with a single method" />
             <option value="$PROJECT_DIR$/Problems/An expression with large numbers" />
+            <option value="$PROJECT_DIR$/Problems/Apply function to all elements" />
+            <option value="$PROJECT_DIR$/Problems/Ascending and descending sorting" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
+            <option value="$PROJECT_DIR$/Problems/Backward indexes" />
             <option value="$PROJECT_DIR$/Problems/Basic calculator" />
+            <option value="$PROJECT_DIR$/Problems/Blacklist" />
             <option value="$PROJECT_DIR$/Problems/Boxes are not just objects!" />
             <option value="$PROJECT_DIR$/Problems/Breakfast Decorator" />
             <option value="$PROJECT_DIR$/Problems/Burgers" />
@@ -50,9 +54,11 @@
             <option value="$PROJECT_DIR$/Problems/Find a block that may contain the target value" />
             <option value="$PROJECT_DIR$/Problems/Find a fixed point in an array" />
             <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
+            <option value="$PROJECT_DIR$/Problems/Find the latest date-time" />
             <option value="$PROJECT_DIR$/Problems/Find the max in an array" />
             <option value="$PROJECT_DIR$/Problems/Forex Broker" />
             <option value="$PROJECT_DIR$/Problems/Geek Builder" />
+            <option value="$PROJECT_DIR$/Problems/Generate random numbers" />
             <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
             <option value="$PROJECT_DIR$/Problems/Getting information on a day" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
@@ -99,6 +105,8 @@
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Smart house" />
             <option value="$PROJECT_DIR$/Problems/Sorting characters" />
+            <option value="$PROJECT_DIR$/Problems/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Problems/Squares list" />
             <option value="$PROJECT_DIR$/Problems/Starting runnables" />
             <option value="$PROJECT_DIR$/Problems/Static factory methods for Time" />
             <option value="$PROJECT_DIR$/Problems/Stock Broker" />
@@ -110,10 +118,12 @@
             <option value="$PROJECT_DIR$/Problems/Template Method (1)" />
             <option value="$PROJECT_DIR$/Problems/Ternary predicate" />
             <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/The New Year is coming (or not)" />
             <option value="$PROJECT_DIR$/Problems/The Range class" />
             <option value="$PROJECT_DIR$/Problems/The first and the last day of a month" />
             <option value="$PROJECT_DIR$/Problems/The first day of a month or not" />
             <option value="$PROJECT_DIR$/Problems/The index of an argument" />
+            <option value="$PROJECT_DIR$/Problems/The intersection of time ranges" />
             <option value="$PROJECT_DIR$/Problems/The n-th day from the end of a month" />
             <option value="$PROJECT_DIR$/Problems/The number of inversions" />
             <option value="$PROJECT_DIR$/Problems/The number of operations" />
