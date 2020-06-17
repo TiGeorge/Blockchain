@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/Problems/Backward indexes" />
             <option value="$PROJECT_DIR$/Problems/Basic calculator" />
             <option value="$PROJECT_DIR$/Problems/Blacklist" />
+            <option value="$PROJECT_DIR$/Problems/Books as strings" />
             <option value="$PROJECT_DIR$/Problems/Boxes are not just objects!" />
             <option value="$PROJECT_DIR$/Problems/Breakfast Decorator" />
             <option value="$PROJECT_DIR$/Problems/Burgers" />
@@ -42,6 +43,7 @@
             <option value="$PROJECT_DIR$/Problems/Comparing numbers" />
             <option value="$PROJECT_DIR$/Problems/Complete a class" />
             <option value="$PROJECT_DIR$/Problems/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Composing predicates" />
             <option value="$PROJECT_DIR$/Problems/Computer Facade" />
             <option value="$PROJECT_DIR$/Problems/Convert to byte array" />
@@ -53,6 +55,7 @@
             <option value="$PROJECT_DIR$/Problems/Count words" />
             <option value="$PROJECT_DIR$/Problems/Count words without repetitions" />
             <option value="$PROJECT_DIR$/Problems/Countdown counter" />
+            <option value="$PROJECT_DIR$/Problems/Counting 2D shapes" />
             <option value="$PROJECT_DIR$/Problems/Counting clicks" />
             <option value="$PROJECT_DIR$/Problems/Counting number of instances" />
             <option value="$PROJECT_DIR$/Problems/Counting words" />
@@ -65,6 +68,7 @@
             <option value="$PROJECT_DIR$/Problems/Distance" />
             <option value="$PROJECT_DIR$/Problems/Does the array contain the element" />
             <option value="$PROJECT_DIR$/Problems/Double factorial" />
+            <option value="$PROJECT_DIR$/Problems/Field count" />
             <option value="$PROJECT_DIR$/Problems/Find a block that may contain the target value" />
             <option value="$PROJECT_DIR$/Problems/Find a fixed point in an array" />
             <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
@@ -130,6 +134,7 @@
             <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and removing of characters" />
+            <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and the mystery of anagrams" />
             <option value="$PROJECT_DIR$/Problems/Smart house" />
             <option value="$PROJECT_DIR$/Problems/Sorting characters" />
             <option value="$PROJECT_DIR$/Problems/Sorting the absolute values" />
@@ -145,6 +150,7 @@
             <option value="$PROJECT_DIR$/Problems/String to double conversion" />
             <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
             <option value="$PROJECT_DIR$/Problems/Sum of divisors" />
+            <option value="$PROJECT_DIR$/Problems/Sum of the areas" />
             <option value="$PROJECT_DIR$/Problems/Template Method" />
             <option value="$PROJECT_DIR$/Problems/Template Method (1)" />
             <option value="$PROJECT_DIR$/Problems/Ternary operator" />
@@ -168,10 +174,13 @@
             <option value="$PROJECT_DIR$/Problems/The sum of odd numbers" />
             <option value="$PROJECT_DIR$/Problems/The ten most frequent words" />
             <option value="$PROJECT_DIR$/Problems/The total sum of transaction by each account" />
+            <option value="$PROJECT_DIR$/Problems/Time as a string" />
             <option value="$PROJECT_DIR$/Problems/Undo command" />
             <option value="$PROJECT_DIR$/Problems/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Problems/Users as strings" />
             <option value="$PROJECT_DIR$/Problems/VeganPizza" />
             <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Problems/Who is who" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
