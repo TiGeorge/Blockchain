@@ -17,6 +17,8 @@
             <option value="$PROJECT_DIR$/Problems/Add days and subtract hours" />
             <option value="$PROJECT_DIR$/Problems/Adding N minutes" />
             <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
+            <option value="$PROJECT_DIR$/Problems/Advanced list" />
+            <option value="$PROJECT_DIR$/Problems/Allocated memory" />
             <option value="$PROJECT_DIR$/Problems/An anonymous class with a single method" />
             <option value="$PROJECT_DIR$/Problems/An expression with large numbers" />
             <option value="$PROJECT_DIR$/Problems/An infinite numbers supplier" />
@@ -45,6 +47,7 @@
             <option value="$PROJECT_DIR$/Problems/Complete a class" />
             <option value="$PROJECT_DIR$/Problems/Complete the eager singleton" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (1)" />
             <option value="$PROJECT_DIR$/Problems/Composing predicates" />
             <option value="$PROJECT_DIR$/Problems/Computer Facade" />
             <option value="$PROJECT_DIR$/Problems/Constructor Checker" />
@@ -64,11 +67,13 @@
             <option value="$PROJECT_DIR$/Problems/Creating a set" />
             <option value="$PROJECT_DIR$/Problems/Curried function" />
             <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Days of the week" />
             <option value="$PROJECT_DIR$/Problems/Days of week" />
             <option value="$PROJECT_DIR$/Problems/Descending sorting swaps" />
             <option value="$PROJECT_DIR$/Problems/Displaying pairs" />
             <option value="$PROJECT_DIR$/Problems/Distance" />
             <option value="$PROJECT_DIR$/Problems/Does the array contain the element" />
+            <option value="$PROJECT_DIR$/Problems/Double addition" />
             <option value="$PROJECT_DIR$/Problems/Double factorial" />
             <option value="$PROJECT_DIR$/Problems/Field count" />
             <option value="$PROJECT_DIR$/Problems/Field value" />
@@ -130,6 +135,7 @@
             <option value="$PROJECT_DIR$/Problems/Reverse input text" />
             <option value="$PROJECT_DIR$/Problems/Robot Builder" />
             <option value="$PROJECT_DIR$/Problems/Robot factory" />
+            <option value="$PROJECT_DIR$/Problems/Rope" />
             <option value="$PROJECT_DIR$/Problems/Safe password" />
             <option value="$PROJECT_DIR$/Problems/Search in a descending ordered array" />
             <option value="$PROJECT_DIR$/Problems/Search indexes of values in another array" />
@@ -141,7 +147,10 @@
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and removing of characters" />
             <option value="$PROJECT_DIR$/Problems/Sherlock Holmes and the mystery of anagrams" />
+            <option value="$PROJECT_DIR$/Problems/Simple doubly linked list" />
+            <option value="$PROJECT_DIR$/Problems/Simple list" />
             <option value="$PROJECT_DIR$/Problems/Smart house" />
+            <option value="$PROJECT_DIR$/Problems/Sorted list" />
             <option value="$PROJECT_DIR$/Problems/Sorting characters" />
             <option value="$PROJECT_DIR$/Problems/Sorting the absolute values" />
             <option value="$PROJECT_DIR$/Problems/Spell checker" />
@@ -176,10 +185,12 @@
             <option value="$PROJECT_DIR$/Problems/The number of inversions" />
             <option value="$PROJECT_DIR$/Problems/The number of operations" />
             <option value="$PROJECT_DIR$/Problems/The percentage of G and C characters" />
+            <option value="$PROJECT_DIR$/Problems/The root of a number" />
             <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
             <option value="$PROJECT_DIR$/Problems/The sum of odd numbers" />
             <option value="$PROJECT_DIR$/Problems/The ten most frequent words" />
             <option value="$PROJECT_DIR$/Problems/The total sum of transaction by each account" />
+            <option value="$PROJECT_DIR$/Problems/Throw an IOException" />
             <option value="$PROJECT_DIR$/Problems/Time as a string" />
             <option value="$PROJECT_DIR$/Problems/Undo command" />
             <option value="$PROJECT_DIR$/Problems/Users and WebSites" />
