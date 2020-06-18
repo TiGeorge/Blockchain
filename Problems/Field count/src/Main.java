@@ -14,4 +14,13 @@ class FieldGetter {
         return clazz.getFields().length;
     }
 
+    public static void main(String[] args) throws ClassNotFoundException {
+        System.out.println("".getClass());
+        System.out.println(String.class.getSuperclass());
+        System.out.println(String.class);
+        System.out.println(String.class.getClass());
+        System.out.println(Class.forName("String"));
+        //System.out.println(String.getClass());
+    }
+
 }

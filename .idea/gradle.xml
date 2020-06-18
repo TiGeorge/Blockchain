@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/Problems/An anonymous class with a single method" />
             <option value="$PROJECT_DIR$/Problems/An expression with large numbers" />
             <option value="$PROJECT_DIR$/Problems/An infinite numbers supplier" />
+            <option value="$PROJECT_DIR$/Problems/Annotated fields" />
             <option value="$PROJECT_DIR$/Problems/Apply function to all elements" />
             <option value="$PROJECT_DIR$/Problems/Ascending and descending sorting" />
             <option value="$PROJECT_DIR$/Problems/Assignments" />
@@ -46,6 +47,7 @@
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Composing predicates" />
             <option value="$PROJECT_DIR$/Problems/Computer Facade" />
+            <option value="$PROJECT_DIR$/Problems/Constructor Checker" />
             <option value="$PROJECT_DIR$/Problems/Convert to byte array" />
             <option value="$PROJECT_DIR$/Problems/Convert to bytes" />
             <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
@@ -69,6 +71,7 @@
             <option value="$PROJECT_DIR$/Problems/Does the array contain the element" />
             <option value="$PROJECT_DIR$/Problems/Double factorial" />
             <option value="$PROJECT_DIR$/Problems/Field count" />
+            <option value="$PROJECT_DIR$/Problems/Field value" />
             <option value="$PROJECT_DIR$/Problems/Find a block that may contain the target value" />
             <option value="$PROJECT_DIR$/Problems/Find a fixed point in an array" />
             <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
@@ -89,6 +92,8 @@
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
             <option value="$PROJECT_DIR$/Problems/Laptop factory" />
             <option value="$PROJECT_DIR$/Problems/Laptop store" />
+            <option value="$PROJECT_DIR$/Problems/List private fields" />
+            <option value="$PROJECT_DIR$/Problems/List public fields" />
             <option value="$PROJECT_DIR$/Problems/Max of two integers" />
             <option value="$PROJECT_DIR$/Problems/Max-min sorting" />
             <option value="$PROJECT_DIR$/Problems/Maximum of the absolute values" />
@@ -120,6 +125,7 @@
             <option value="$PROJECT_DIR$/Problems/Rehashing" />
             <option value="$PROJECT_DIR$/Problems/Remote Controller" />
             <option value="$PROJECT_DIR$/Problems/Removing" />
+            <option value="$PROJECT_DIR$/Problems/Retrieve class name" />
             <option value="$PROJECT_DIR$/Problems/Return time without seconds" />
             <option value="$PROJECT_DIR$/Problems/Reverse input text" />
             <option value="$PROJECT_DIR$/Problems/Robot Builder" />
