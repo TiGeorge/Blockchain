@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
             <option value="$PROJECT_DIR$/Problems/Advanced list" />
             <option value="$PROJECT_DIR$/Problems/Allocated memory" />
+            <option value="$PROJECT_DIR$/Problems/Alphabet" />
             <option value="$PROJECT_DIR$/Problems/An anonymous class with a single method" />
             <option value="$PROJECT_DIR$/Problems/An expression with large numbers" />
             <option value="$PROJECT_DIR$/Problems/An infinite numbers supplier" />
@@ -66,6 +67,7 @@
             <option value="$PROJECT_DIR$/Problems/Counting words" />
             <option value="$PROJECT_DIR$/Problems/Creating a set" />
             <option value="$PROJECT_DIR$/Problems/Curried function" />
+            <option value="$PROJECT_DIR$/Problems/DAG checker" />
             <option value="$PROJECT_DIR$/Problems/Danger levels" />
             <option value="$PROJECT_DIR$/Problems/Days of the week" />
             <option value="$PROJECT_DIR$/Problems/Days of week" />
@@ -89,9 +91,11 @@
             <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
             <option value="$PROJECT_DIR$/Problems/Getting information on a day" />
             <option value="$PROJECT_DIR$/Problems/Greedy load balance" />
+            <option value="$PROJECT_DIR$/Problems/Handling interruptions" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
             <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
             <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Problems/Interrupting a thread" />
             <option value="$PROJECT_DIR$/Problems/Inverting streams" />
             <option value="$PROJECT_DIR$/Problems/Iterations" />
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
@@ -113,6 +117,7 @@
             <option value="$PROJECT_DIR$/Problems/Number of decompositions" />
             <option value="$PROJECT_DIR$/Problems/Numbers filtering" />
             <option value="$PROJECT_DIR$/Problems/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Problems/Out of bounds!" />
             <option value="$PROJECT_DIR$/Problems/Output elements" />
             <option value="$PROJECT_DIR$/Problems/Palindrome or not" />
             <option value="$PROJECT_DIR$/Problems/Partial sorting" />
@@ -129,6 +134,9 @@
             <option value="$PROJECT_DIR$/Problems/Reducer operator" />
             <option value="$PROJECT_DIR$/Problems/Rehashing" />
             <option value="$PROJECT_DIR$/Problems/Remote Controller" />
+            <option value="$PROJECT_DIR$/Problems/Remove HTML tags" />
+            <option value="$PROJECT_DIR$/Problems/Remove comments" />
+            <option value="$PROJECT_DIR$/Problems/Remove extra spaces" />
             <option value="$PROJECT_DIR$/Problems/Removing" />
             <option value="$PROJECT_DIR$/Problems/Retrieve class name" />
             <option value="$PROJECT_DIR$/Problems/Return time without seconds" />
@@ -181,6 +189,7 @@
             <option value="$PROJECT_DIR$/Problems/The general number of employees" />
             <option value="$PROJECT_DIR$/Problems/The index of an argument" />
             <option value="$PROJECT_DIR$/Problems/The intersection of time ranges" />
+            <option value="$PROJECT_DIR$/Problems/The longest word" />
             <option value="$PROJECT_DIR$/Problems/The n-th day from the end of a month" />
             <option value="$PROJECT_DIR$/Problems/The number of inversions" />
             <option value="$PROJECT_DIR$/Problems/The number of operations" />
@@ -195,6 +204,7 @@
             <option value="$PROJECT_DIR$/Problems/Undo command" />
             <option value="$PROJECT_DIR$/Problems/Users and WebSites" />
             <option value="$PROJECT_DIR$/Problems/Users as strings" />
+            <option value="$PROJECT_DIR$/Problems/Variables and constraints" />
             <option value="$PROJECT_DIR$/Problems/VeganPizza" />
             <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
             <option value="$PROJECT_DIR$/Problems/Who is who" />
