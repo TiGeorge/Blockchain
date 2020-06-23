@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Blockchain/task" />
+            <option value="$PROJECT_DIR$/Problems/A talanted baker" />
             <option value="$PROJECT_DIR$/Problems/Accounts" />
             <option value="$PROJECT_DIR$/Problems/Add 11 hours and print the date" />
             <option value="$PROJECT_DIR$/Problems/Add days and subtract hours" />
@@ -37,6 +38,7 @@
             <option value="$PROJECT_DIR$/Problems/Calculate the number of distinct characters" />
             <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
             <option value="$PROJECT_DIR$/Problems/Calculating factorials (1)" />
+            <option value="$PROJECT_DIR$/Problems/Calculator" />
             <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
             <option value="$PROJECT_DIR$/Problems/Check if a number is prime" />
             <option value="$PROJECT_DIR$/Problems/Check whether a number is prime" />
@@ -77,6 +79,7 @@
             <option value="$PROJECT_DIR$/Problems/Does the array contain the element" />
             <option value="$PROJECT_DIR$/Problems/Double addition" />
             <option value="$PROJECT_DIR$/Problems/Double factorial" />
+            <option value="$PROJECT_DIR$/Problems/Execute Callable objects" />
             <option value="$PROJECT_DIR$/Problems/Field count" />
             <option value="$PROJECT_DIR$/Problems/Field value" />
             <option value="$PROJECT_DIR$/Problems/Find a block that may contain the target value" />
@@ -84,15 +87,19 @@
             <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
             <option value="$PROJECT_DIR$/Problems/Find the latest date-time" />
             <option value="$PROJECT_DIR$/Problems/Find the max in an array" />
+            <option value="$PROJECT_DIR$/Problems/Finding and starting a thread" />
             <option value="$PROJECT_DIR$/Problems/Finding max and min elements" />
             <option value="$PROJECT_DIR$/Problems/Forex Broker" />
             <option value="$PROJECT_DIR$/Problems/Geek Builder" />
             <option value="$PROJECT_DIR$/Problems/Generate random numbers" />
             <option value="$PROJECT_DIR$/Problems/Getting current thread info" />
             <option value="$PROJECT_DIR$/Problems/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Problems/Getting the type of comparator" />
             <option value="$PROJECT_DIR$/Problems/Greedy load balance" />
             <option value="$PROJECT_DIR$/Problems/Handling interruptions" />
             <option value="$PROJECT_DIR$/Problems/Heron's formula" />
+            <option value="$PROJECT_DIR$/Problems/How many Callable objects are there" />
+            <option value="$PROJECT_DIR$/Problems/How many tasks are finished" />
             <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
             <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
             <option value="$PROJECT_DIR$/Problems/Interrupting a thread" />
@@ -101,6 +108,7 @@
             <option value="$PROJECT_DIR$/Problems/Javadoc comment" />
             <option value="$PROJECT_DIR$/Problems/Laptop factory" />
             <option value="$PROJECT_DIR$/Problems/Laptop store" />
+            <option value="$PROJECT_DIR$/Problems/List multiplicator" />
             <option value="$PROJECT_DIR$/Problems/List private fields" />
             <option value="$PROJECT_DIR$/Problems/List public fields" />
             <option value="$PROJECT_DIR$/Problems/Max of two integers" />
@@ -119,10 +127,14 @@
             <option value="$PROJECT_DIR$/Problems/Ordering the execution of threads" />
             <option value="$PROJECT_DIR$/Problems/Out of bounds!" />
             <option value="$PROJECT_DIR$/Problems/Output elements" />
+            <option value="$PROJECT_DIR$/Problems/Packing backeries" />
             <option value="$PROJECT_DIR$/Problems/Palindrome or not" />
             <option value="$PROJECT_DIR$/Problems/Partial sorting" />
+            <option value="$PROJECT_DIR$/Problems/Pets and boxes" />
+            <option value="$PROJECT_DIR$/Problems/Pets in boxes" />
             <option value="$PROJECT_DIR$/Problems/Phone Book" />
             <option value="$PROJECT_DIR$/Problems/Phone factory" />
+            <option value="$PROJECT_DIR$/Problems/Photocopiers" />
             <option value="$PROJECT_DIR$/Problems/Pizza Decorator" />
             <option value="$PROJECT_DIR$/Problems/Pow" />
             <option value="$PROJECT_DIR$/Problems/Prime numbers" />
@@ -130,6 +142,7 @@
             <option value="$PROJECT_DIR$/Problems/Production of all numbers in the range" />
             <option value="$PROJECT_DIR$/Problems/Profit" />
             <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Problems/Quality control system" />
             <option value="$PROJECT_DIR$/Problems/Range quadratic sum" />
             <option value="$PROJECT_DIR$/Problems/Reducer operator" />
             <option value="$PROJECT_DIR$/Problems/Rehashing" />
@@ -193,6 +206,7 @@
             <option value="$PROJECT_DIR$/Problems/The n-th day from the end of a month" />
             <option value="$PROJECT_DIR$/Problems/The number of inversions" />
             <option value="$PROJECT_DIR$/Problems/The number of operations" />
+            <option value="$PROJECT_DIR$/Problems/The number of required shifts" />
             <option value="$PROJECT_DIR$/Problems/The percentage of G and C characters" />
             <option value="$PROJECT_DIR$/Problems/The root of a number" />
             <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
@@ -206,8 +220,10 @@
             <option value="$PROJECT_DIR$/Problems/Users as strings" />
             <option value="$PROJECT_DIR$/Problems/Variables and constraints" />
             <option value="$PROJECT_DIR$/Problems/VeganPizza" />
+            <option value="$PROJECT_DIR$/Problems/Violator" />
             <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
             <option value="$PROJECT_DIR$/Problems/Who is who" />
+            <option value="$PROJECT_DIR$/Problems/Writing a class" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
