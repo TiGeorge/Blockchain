@@ -5,6 +5,11 @@ public class Main {
 
     public static void removeElementsGreaterThanValue(Iterator<Long> iterator, Long val) {
         // write your code here
+        while (iterator.hasNext()) {
+            if (iterator.next() > val) {
+                iterator.remove();
+            }
+        }
     }
 
     /* Do not change code below */
