@@ -238,3 +238,5 @@ content:
 - No  J
 - Iterable range
 - Robot control
+- Edit distance with insertions and deletions
+- Efficient memory consumption

@@ -81,6 +81,8 @@
             <option value="$PROJECT_DIR$/Problems/Double addition" />
             <option value="$PROJECT_DIR$/Problems/Double factorial" />
             <option value="$PROJECT_DIR$/Problems/Edit distance with a scoring matrix" />
+            <option value="$PROJECT_DIR$/Problems/Edit distance with insertions and deletions" />
+            <option value="$PROJECT_DIR$/Problems/Efficient memory consumption" />
             <option value="$PROJECT_DIR$/Problems/Execute Callable objects" />
             <option value="$PROJECT_DIR$/Problems/Field count" />
             <option value="$PROJECT_DIR$/Problems/Field value" />
