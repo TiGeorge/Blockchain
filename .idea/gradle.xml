@@ -93,6 +93,7 @@
             <option value="$PROJECT_DIR$/Problems/Find the max in an array" />
             <option value="$PROJECT_DIR$/Problems/Finding and starting a thread" />
             <option value="$PROJECT_DIR$/Problems/Finding max and min elements" />
+            <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/Fix me" />
             <option value="$PROJECT_DIR$/Problems/Forex Broker" />
             <option value="$PROJECT_DIR$/Problems/Frequency of characters" />
@@ -242,6 +243,7 @@
             <option value="$PROJECT_DIR$/Problems/Violator" />
             <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
             <option value="$PROJECT_DIR$/Problems/Who is who" />
+            <option value="$PROJECT_DIR$/Problems/Working with queue" />
             <option value="$PROJECT_DIR$/Problems/Writing a class" />
             <option value="$PROJECT_DIR$/util" />
           </set>
